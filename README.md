@@ -28,4 +28,6 @@ void loop()
 ### 5) Select the appropriate firmware bin file and COM-PORT in Flasher.exe and Download
 
 ### 6) Once flashing done i.e (99% and some error neglect) remove GPIO0 set Baud rate 9600 or 115200 and type AT
+### 7) AT commands
+      http://room-15.github.io/blog/2015/03/26/esp8266-at-command-reference/
 
